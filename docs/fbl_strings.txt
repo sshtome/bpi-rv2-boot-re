@@ -1,0 +1,421 @@
+4:sa18B
+154:CBcvs
+881:g18L@
+1283:A}4m
+1447:yVyYa
+1704:lA3I
+1993:tFtn
+2081:@\X#0
+2421:}B}Ia
+2581:@\X#
+2675:|3zG
+3294:`*#:
+3380:}UFd
+3597:dFd%a
+4381:tbt!a
+4517:$3Gg
+5273:yFy&
+5294:7YBU
+5423:@`_E
+5429:GOFRG
+5536:\Ecy
+5561:q\Eb
+6014:Qq\MV
+6269:wFgc
+6385:@@#7
+6618:}U#$
+7718:XDcf
+7897:D\Dcp
+8047:iNi&
+8491:GYUc|
+8510:EGYUcv
+8695:GYUc
+8714:EGYUco
+8749:|aUc
+8773:)aUc
+9009:Ecn9
+9049:tBt!a
+9481:J2Dp
+9537:yBy"
+9568:2DcV
+9717:iBi"
+10259:%cne
+10393:0@w# 
+10413:iBi"
+10577:dFd%a
+10899:pEa=
+10921:0@V"fBg
+10939:tEaa
+11039:O"fBg
+11055:tEay
+11137:tBt!a
+11176:"fcM
+11191:yBy&
+11227:0`A*
+11293:0@=*
+11559:@qUcK
+11659:tBt!a
+11697:GYUc
+11823:iBiEa
+12023:tFtJ
+12421:GMUc
+12509: 0fN
+12686:!Gcx
+12927:iJi"
+13096:7WBI
+13901:M}T"
+14397:`)UA
+14461:K}Sca
+14470:}Scm
+16237:K#4qK#8aK#<QK#0AM#41M#8!M#<
+16280:@4#.
+16514: !#*
+16921:Ww@aw
+17286:)AAj;
+17761:|# w
+17920:aO#$
+18045: #"G
+18052:)H#&
+18226:=H#$
+18271:,#.w
+18305:0# '
+18376:G@cX
+18465:V&@\
+19078:lS0W
+19118:|[%G
+19652:!Gcl
+20094:\WtS
+20138:tO<S
+20192:|CT[
+20318:* #*
+20476:gp#,
+20500:W`#"
+20604:7>#&
+21214:9Gcg
+22059:tFtV
+22180:%Hcb
+22275:G%C)N5
+23458:)C5N
+24003:`)UA
+24858:]CMN
+25071:F!F,
+25518:\D77
+25736:invalid image magic: %08x
+25768:err: %d write register %d
+25800:err: %d read register %d
+25832:error %d waiting page 0x%x to cache
+25872:internal ECC error reading page 0x%x
+25912:%s: attempt to read outside oob
+25952:%s: attempt to read beyond end of device
+26000:error %d reading page 0x%x
+26032:%s: attempt to start read outside oob
+26072:spi_nand reset failed!
+26096:SPI-NAND got mfr_id: %x, dev_id: %x
+26136:common spi nand
+26152:spi_nand_do_read_oob
+26176:spi_nand_do_read_ops
+26200:Invalid spi nand opcode %x
+26232:%s: uncorrectable ECC error
+26264:nand_correct_data
+27056:UBI: Bad EC magic in block %d %08x
+27096:UBI: Bad EC CRC in block %d
+27128:UBI: EOF marker found in block %d
+27168:UBI: Bad magic in block 0%d %08x
+27208:UBI: Bad CRC in block 0%d
+27240:UBI warning: Vol: %u LEB %d > %d
+27280:UBI error: FM: Bad PEB in fastmap pool! %u
+27328:UBI error: bad super block magic: 0x%x, expected: 0x%x
+27384:UBI error: bad fastmap version: %i, expected: %i
+27440:UBI error: number of fastmap blocks is invalid: %i
+27496:UBI error: bad fastmap size: %zi, expected: %zi
+27552:UBI error: unable to read fastmap block# %i (PEB: %i)
+27608:UBI error: bad fastmap anchor vol_id: 0x%x, expected: 0x%x
+27672:UBI error: bad fastmap data vol_id: 0x%x, expected: 0x%x
+27736:UBI error: unable to read fastmap block# %i (PEB: %i, err: %i)
+27800:UBI error: fastmap data CRC is invalid
+27840:UBI error: CRC should be: 0x%x, calc: 0x%x
+27888:UBI error: bad fastmap header magic: 0x%x, expected: 0x%x
+27952:UBI error: bad fastmap pool magic: 0x%x, expected: 0x%x
+28016:UBI error: bad pool size: %i
+28048:UBI error: bad WL pool size: %i
+28088:UBI error: bad maximal pool size: %i
+28128:UBI error: bad maximal WL pool size: %i
+28176:UBI error: bad fastmap vol header magic: 0x%x, expected: 0x%x
+28240:UBI error: bad fastmap EBA header magic: 0x%x, expected: 0x%x
+28304:UBI: attached by fastmap %uMB %u blocks
+28352:UBI error: Attach by fastmap failed, doing a full scan!
+28408:UBI: Loading VolId #%d
+28432:UBI warning: LEB %d of %d is missing
+28472:UBI warning: Corrupted mapping block %d PB %d
+28520:UBI warning: Vol: %u LEB %u PEB %u not yet scanned
+28576:UBI warning: Vol: %u LEB %u PEB %u data CRC failure
+28632:UBI warning: Failed to load volume %u
+28672:UBI warning: Failed
+28728:#address-cells
+28744:#size-cells
+28760:/aliases
+28776:<unknown error>
+28792:<no error>
+28808:<valid offset/length>
+28832:FDT_ERR_NOTFOUND
+28856:FDT_ERR_EXISTS
+28872:FDT_ERR_NOSPACE
+28888:FDT_ERR_BADOFFSET
+28912:FDT_ERR_BADPATH
+28928:FDT_ERR_BADPHANDLE
+28952:FDT_ERR_BADSTATE
+28976:FDT_ERR_TRUNCATED
+29000:FDT_ERR_BADMAGIC
+29024:FDT_ERR_BADVERSION
+29048:FDT_ERR_BADSTRUCTURE
+29072:FDT_ERR_BADLAYOUT
+29096:FDT_ERR_INTERNAL
+29120:FDT_ERR_BADNCELLS
+29144:FDT_ERR_BADVALUE
+29168:FDT_ERR_BADOVERLAY
+29192:FDT_ERR_NOPHANDLES
+29216:FDT_ERR_BADFLAGS
+29240:FDT_ERR_ALIGNMENT
+29424:Unsupported %s address size
+29456:load
+29464:entry
+29472:algo
+29480:value
+29488:hash
+29496:sha256
+29504:hash type unsupported.
+29528:Image hash mismatch.
+29552:/images
+29560:failed to find images node: %d
+29592:type
+29600:failed to get image type: %d
+29632:flat_dt
+29640:standalone
+29656:Failed to get load addr for standalone executable.
+29712:firmware
+29728:Ignoring image node with unknown type.
+29768:data
+29776:Ignoring image node without data.
+29816:compression
+29832:lzma
+29840:LZMA unsupported.
+29864:Loding %s to 0x%08lx...
+29896:Jump to u-boot at 0x%08lx...
+29928:%s: %s: %s
+29944:%s: num banks %d exceeds hardcoded limit %d. Recompile with higher MEMORY_BANKS_MAX?
+30032:%s: %s
+30040:memory
+30048:device_type
+30064:WARNING: could not set %s %s.
+30104:fdt_fixup_memory_banks
+30128:fdt_find_or_add_subnode
+30152:time count error!!!
+30192:End of initialization.
+30216:End of fine write leveling.
+30248:End of read enable training.
+30280:End of read delay center optimization.
+30320:End of write dealy center optimization.
+30360:End of 2D read delay/voltage center optimization.
+30416:End of 2D write delay/voltage center optimization.
+30472:End of max read latency training.
+30512:End of read dq deskew training.
+30544:Reserved
+30560:End of all DB training.
+30584:End of CA training.
+30608:End of MPR read delay center optimization.
+30656:End of Write leveling coarse delay.
+30696:Training has run successfully.
+30728:Training has failed.
+30752:waiting training!
+30776:Training Error
+30792:DDR Training Failed.
+30816:ddr firmware hash mismatch. Is firmware corrupted?
+30872:ERROR: DDR freq %dMHz not support!!!
+30912:Use default value %dMHz!!!
+30944:Now DDR3 frequency is: %dMHz!!!
+30984:DDR init for %lu Mb RAM...
+31016:DRAM size mismatch. Re-do DDR init...
+31056:Detected DRAM size: %lu Mb
+31088:ddr w1b test ok! addr:0x20000000 value:0x5a
+31136:read value is 0x%x
+31160:ddr r1b test ok!
+31184:ddr w2b test ok! addr:0x30300000 value:0x5aa7
+31232:ddr r2b test ok!
+31256:ddr w4b test ok! addr:0x40540000, value:0x5aa71342
+31312:ddr r4b test ok!
+31336:ddr w8b test ok! addr:0x66099000, value:0x5aa713425a5a5a5a
+31400:ddr r8b test ok!
+31424:ZZZZB
+31431:Z0123456789abcdefghijklmnopqrstuvwxyz
+31472:0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+31512:<NULL>
+31656:this module don't multiplexer pads!!!
+31768:sf_pad_set_func error! index:%d func:%d 
+31910:rZ### ERROR ### Please RESET the board ###
+31960:22:46:57
+31976:Feb 28 2025
+31992:SiFlower SF21H8898 Bootloader (%s - %s)
+36356:jn9D
+36519:x,pLplpMpmp
+36689:xS @
+36741:uop5
+36846:aBgq/#
+36876:Iy8`
+37128:xCHE
+37181:@@$A0
+37225:p% @
+37310:ez%x
+37338:Ey/'
+37399:8Ex 
+37407:8Ex`
+37427:z@#@
+37459:q% @
+37689:x;y%x
+37980: @[yD!
+38257:=HG8C
+38672:@B,p
+38784:LqltC
+38926:@@8`
+38962:a@x`
+39079:{D%A
+39696:Lp,p
+39817:y=y=y=y
+40299:|D$@
+40304:exD%
+40340:%xD$
+40394:$w0y;yU!
+40483:z]z]z]z
+40706:Lq@@D&
+40864:LrU#
+40940:awZ#
+40954:Yaty
+40972:t|=yl!
+40990:Yaty
+41001:8Yaty
+41093:xD%A
+41240:B&^0
+41289:xD%A
+41388:B&^0
+41474:Lu(EC
+41552:Luls(EC
+41784:=xPp
+41837:z}{S%~
+41850:]zS%
+42135:x,tLp
+42216:YGDqTt
+42266:YGDr
+42300:[xV 
+42722:]z]z]z
+42730:]z]z]z
+43001:@,q^
+43542:HF(G
+43688:}xD#A
+43812:}xD#A
+43932:asH 
+43938:|xH 
+44083:i8CD
+44186:,qB#@0E
+44259:JD!N
+44312:O#@0
+44342:,pLuC
+44370:LulrC
+44532:,pLu
+44668:Lu(EC
+44691:ALulrC
+44753:ALrx 
+44876:,pLuC
+44905:ALulrC
+44996:,pLu
+45012:Lult
+45893:@op,q
+46374:mpyC
+46401:#a0B
+46689:#B3T 
+46718:X`I 
+47192:}y=y
+47372:,qU$
+47495:x=y 
+47793:qeq`
+47916:D}]z]z]z]z]z
+47978:Lq2 
+48508:Lq%x
+48700:$rey
+49014:Dtez 
+49074:DtE{ 
+49133:3o!C
+49166:U$@>
+49316:U$@>A
+49338:cCmq
+49402:U$@>@
+49411:AcBR
+49663:y<y<y<y<y
+49674:<y<y$xA
+49906:,plp
+50070:gwwp
+50386:@@lp
+50521:C@&^0
+50542:@#[2N{|x
+50566:=y8c
+50572:1HD+
+50658:,qLpD 
+50710:LultC
+50851:#[0#
+50950:=y8b
+50956:1HD*
+51172:PIH 
+51320:(G,pO
+51445:x,p2
+51808:PKH 
+51892:%xEx
+52220:@&^0
+52242:}{xe
+52248:sHD-
+52366: BhE
+52378:,pLplp
+52410:,pLuC
+52458:LrltB
+52552: Blp&
+52576:,pLuC
+52608:cALrC
+52639:ALuC
+52665:3LqC
+52736:Lulr
+52756:,pLu
+52778:LultC
+52807:ALulr
+52872:,pLuC
+52974:,pLs@
+53010:,pLs
+53080:,pLu"
+53104:LultC
+53166:,pLp|
+53190:D#@0cp
+53228:LqluC
+53260:,pLqltC
+53308:Lulr
+53328:,pLu
+53362:LvltC
+53388:Lqlt
+53541:4(EB
+53558:LultC
+53610:HF(G
+54053:~l&N
+54098:$q/z
+54340:cALrlt
+54364:cALrltC
+54388:Lrlt
+54408:,pLu
+54492:cALqltC
+54512:cALq
+54559:DLqltC
+54584:,pLu
+54612:LvltC
+55177:xS B
+55336:LrD#@0cp
+55376:Lulr
+55396:,pLu
+55562:,pLuC
+55632:,pLp
+55660:Lq%x
+55696:,pLu
+55708:Lult
