@@ -494,7 +494,7 @@ SCDONE:
 #else
 	lui	s1, 0x21a00		/* s1 = DDR-буфер 0x21a00000 */
 #endif
-	li	s2, 0x8AD5E		/* s2 = остаток */
+	lui	s2, 0xC0		/* s2 = 0xC0000 = 768 KB (U-Boot NOR partition) */
 3:	beqz	s2, 6f
 	li	s3, 512
 	bltu	s3, s2, 7f
